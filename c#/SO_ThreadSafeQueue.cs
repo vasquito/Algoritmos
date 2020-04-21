@@ -1,3 +1,6 @@
+//Fuente: 
+//http://csharp.dokry.com/15992/como-puedo-modificar-una-coleccion-de-cola-en-un-bucle.html
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
